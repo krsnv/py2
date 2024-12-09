@@ -15,7 +15,6 @@ from PyQt5.QtWidgets import (
     QTabWidget,
 )
 from PyQt5.QtSql import QSqlDatabase, QSqlQuery, QSqlQueryModel
-from PyQt5.QtCore import Qt
 
 
 class TeacherForm(QDialog):
